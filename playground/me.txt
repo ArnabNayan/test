@@ -1,5 +1,0 @@
-{#user}
-Name: Arnab Das.
-Skills: HTML, CSS,Tailwind CSS,Bootstrap, JS, React.js,Responsive web design,Mongodb,Express.js
-Email: arnabnayan5@gmail.com
-{{/user}}
